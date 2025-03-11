@@ -1,0 +1,5 @@
+dist/
+build/
+WebView2Loader.dll
+save/
+config.json
